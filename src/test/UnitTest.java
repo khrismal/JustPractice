@@ -10,4 +10,10 @@ public class UnitTest {
 		System.out.println(c);
 	}
 
-}
+	public static int testOne(int a, int b) {
+		int c = b -a;
+		System.out.println("add something");
+		return c;
+				}
+	}
+
